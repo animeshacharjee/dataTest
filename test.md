@@ -2,7 +2,7 @@
 https://github.com/pablobarbera/Rdataviz
 
 
-*Body* **Composition*
+*Body* **Composition**
 and
 Energy Metabolism
 #Section 1
